@@ -1,7 +1,5 @@
 # Python PRO Test
 
-Este proyecto es parte del test del curso ‘Python PRO’ de Kodland LATAM. Consiste en un bot para Discord que da la bienvenida a cada nuevo usuario en el canal general del servidor autorizado y realiza búsquedas en Wikipedia mediante el comando !wiki seguido del término de búsqueda. Si encuentra información, el bot devolverá un resumen.
-
 ### Instrucciones de Uso
 
 **a. Crear una cuenta en Discord:**
