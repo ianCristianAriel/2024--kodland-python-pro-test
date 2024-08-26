@@ -26,6 +26,10 @@ Este proyecto es parte del test del curso ‘Python PRO’ de Kodland LATAM. Con
 1. Dentro de la carpeta de este proyecto, crea un archivo llamado .env.
 2. Abre el archivo .env y añade la variable TOKEN_BOT de la siguiente forma: TOKEN_BOT="tu_token_aqui"
 
+**f. Ejecucion de consultas desde discord:**
+1. Acceder al canal #general del servidor
+2. Solicitar la busqueda a Wikipedia desde el comando '!wiki [consulta]'
+
 ## Estado del Proyecto
 - **Finalizado**
 
